@@ -1,0 +1,1 @@
+The game that randomly generates a word and prompts the user to guess one letter at a time. Each letter in the word is displayed as an asterisk. When the user makes a correct guess, the actual letter is then displayed.
